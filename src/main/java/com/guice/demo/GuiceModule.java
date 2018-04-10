@@ -3,7 +3,7 @@ package com.guice.demo;
 import com.google.inject.AbstractModule;
 import com.google.inject.matcher.Matchers;
 import com.google.inject.name.Names;
-import com.guice.demo.annotations.Cash;
+import com.guice.demo.annotations.named.Cash;
 import com.guice.demo.common.NamedConstant;
 import com.guice.demo.interceptor.LoggingInterceptor;
 import com.guice.demo.service.PaymentService;

@@ -1,4 +1,4 @@
-package com.guice.demo.annotations;
+package com.guice.demo.annotations.named;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;
